@@ -2,7 +2,7 @@ import telebot
 import requests
 import json
 bot = telebot.TeleBot('7500717957:AAEk_FthUI1QzomiT-qqPaRjCEj_OL_efOM')
-API = '2b53e058fbceb64260976bf6fe6b16e4'
+API = ''
 
 
 @bot.message_handler(commands=["start"])
